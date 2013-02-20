@@ -1,0 +1,19 @@
+3 Problems are solved with code problem1.py, problem2.py, and problem3.py, respetively.
+
+Simply type in
+===
+python problem1.py
+===
+in the command line will give results to problem 1.
+
+
+PLEASE NOTE, FOR RPOBLEM 2 AND 3, I DISPLAY TIME IS DAYS AND HOURS.
+FOR EXAMPLE, FROM (SUNDAY, FEB 5TH, 2012 NOON) TO (SUNDAY, FEB 12TH, 2012 NOON), THERE ARE 40 BUSINESS HOURS. MY RESULT WILL BE:
+"1 DAY, 16 HOURS", WHICH IS EXACTLY 40 HOURS.
+
+
+for example: in the solution to problem 2
+5264035969 -> 2 days, 6:42:34.494000
+indicating job 5264035969 has 24*2 + 6:42:34.494000 = 54 hours 42 minutes 34.494 seconds of businesshours in Feburary!
+another example: 5125515773 -> 7 days, 0:00:00
+indicating 5125515773 has 24*7 = 168 businesss hours in Feburary!
