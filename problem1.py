@@ -10,6 +10,7 @@ json_data=open('rally.json')
 
 data = json.load(json_data)
 json_data.close()
+#http://stackoverflow.com/questions/2835559/python-parsing-file-json
 i = 0
 result = {}
 Feb1st = datetime(2012, 02, 01, 00, 00, 00,0,  pytz.utc)
